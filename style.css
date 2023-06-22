@@ -95,3 +95,7 @@ a.navbar-brand {
 #copyright p{
     color: gray;
 }
+
+.input-group .footer-bottom{
+    display: none;
+}
